@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.practice</groupId>
-  <artifactId>SpringMVCTutorial</artifactId>
+  <artifactId>SpringMvcOnAws</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>SpringMVCTutorial Maven Webapp</name>
+  <name>SpringMvcOnAws Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -104,7 +104,7 @@
 
 
   <build>
-    <finalName>SpringMVCTutorial</finalName>
+    <finalName>SpringMvcOnAws</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
@@ -113,7 +113,7 @@
           <version>2.4</version>
           <configuration>
             <warSourceDirectory>src/main/webapp</warSourceDirectory>
-            <warName>SpringMVCTutorial</warName>
+            <warName>SpringMvcOnAws</warName>
             <failOnMissingWebXml>false</failOnMissingWebXml>
           </configuration>
         </plugin>
